@@ -1,3 +1,29 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+### 🥝 Countries Redux App
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
+---
+
+### 🧶Using API:
+
+-   [REST COUNTRIES](https://restcountries.com)
+
+#### 🧶 Screenshots:
+
+**Main Page:**
+![App Screenshot](src/assets/images/preview.png)
+
+---
+
+#### 🧶 Tech Stack
+
+**Client:**
+
+-   [React](https://ru.reactjs.org/)
+-   [Redux](https://redux.js.org/)
+-   [Redux Toolkit](https://redux-toolkit.js.org/)
+-   [Redux Persist](https://www.npmjs.com/package/redux-persist)
+-   [Sass](https://sass-lang.com/)
+-   [Axios](https://axios-http.com/docs/intro)
+
+#### 🧶 Authors
+
+-   [@logicalOak](https://github.com/logicalOak)
